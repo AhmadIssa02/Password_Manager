@@ -22,7 +22,7 @@ app.use(cookieParser());
 const db = mysql.createConnection({
     user    : 'root',
     host    : 'localhost',
-    password: 'wanda1318',
+    password: 'ahmad123',
     database: 'issadb',
 });
 
